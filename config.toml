@@ -1,0 +1,4 @@
+baseURL = "http://dgse3ta3e23y3.cloudfront.net//"
+languageCode = "en-us"
+title = "Hellow world!"
+theme = "ananke"
